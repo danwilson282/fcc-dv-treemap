@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+.tool {
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+#title {
+    text-align: center;
+    
+}
+#description {
+    text-align: center;
+    
+}
+
